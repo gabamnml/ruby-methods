@@ -1,0 +1,14 @@
+{
+"name": "ruby-methods",
+"version": "0.0.1",
+"description": "Use Ruby methods in JavaScript",
+"main": "ruby.js",
+"keywords": [
+"ruby",
+"Node"
+],
+"repository" : {
+"type" : "git",
+"url" : "http://git@github.com:gabamnml/ruby-methods.git"
+} 
+}
