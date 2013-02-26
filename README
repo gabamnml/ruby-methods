@@ -8,3 +8,6 @@ JS   = (1).upto(5, function(i){console.log(i);})
 
 Ruby = 15.downto(10) { |i| puts i }
 JS   = (15).downto(10, function(i){console.log(i);})
+
+Ruby = [4, 5, 6].each { |element| puts "#{element}" }
+JS = [4, 5, 6].each(function(index) { console.log(index + ": " + this); })
