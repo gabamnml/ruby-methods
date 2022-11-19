@@ -1,6 +1,6 @@
 {
 "name": "ruby-methods",
-"version": "0.0.1",
+"version": "0.0.2",
 "description": "Use Ruby methods in JavaScript",
 "main": "ruby.js",
 "keywords": [
